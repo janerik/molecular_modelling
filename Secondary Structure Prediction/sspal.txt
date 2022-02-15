@@ -1,0 +1,17 @@
+> test sequence                                                       
+Length= 128  3248   25.4
+                    10        20        30        40        50
+ PredSS           bbbbbbbbbb      bbbbb         bbbbb    bbbbb
+ AA seq     MGDLPGLVRLSIALRIQPNDGPVFYKVDGQRFGQNRTIKLLTGSSYKVEV
+ ProbA      11001100010000000011000000001101111100001100000000
+ ProbB      21011378888887764200248999842344221278886212458999
+                    60        70        80        90       100
+ PredSS     bbb  bbbbbbbbb bbbbbbbb        bbbbb              
+ AA seq     KIKPSTLQVENISIGGVLVPLELKSKEPDGDRVVYTGTYDTEGVTPTKSG
+ ProbA      00000111122111000000111100011100000000001111010000
+ ProbB      96522666655556459877456432100028999945442134422211
+                   110       120
+ PredSS         bbbb          bbbbbbb   
+ AA seq     ERQPIQITMPECLEQRPQEISLTYECEE
+ ProbA      0000000001111111111100000111
+ ProbB      1234898743223221024688887322

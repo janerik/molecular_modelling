@@ -1,0 +1,915 @@
+bplist00Ň_WebMainResource_WebSubresourcesŐ	
+_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceData_WebResourceMIMETypeUUTF-8_<https://genesilico.pl/meta2/results/classic/new_window?id=ss^Movable WindowOLL<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
+<title> Genesilico Metaserver - classic</title>
+
+<meta name="author" content="Lukasz Kozlowski, Janusz Bujnicki">
+<meta name="description" content="Genesilico Bioinformtics Group, Structure Prediction">
+<meta name="keywords" lang="en_US" content="meta-server, bioinformtics, protein, structure prediction, threading, alignment, structural analysis, gene function, genomics, secondary structure, tertiary structure, fold recognition, protein folding, biology"> 
+<meta http-equiv="Content-Type" content="text/html; charset=latin2">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="Mon, 01 Jan 1990 12:00:00 GMT">
+<meta http-equiv="Cache-control" content="no-cache">
+<meta http-equiv="Cache-control" content="must-revalidate">
+<meta http-equiv="Cache-control" content="max-age=0">
+<link rel="stylesheet" type="text/css" href="https://genesilico.pl/meta2/broken.css">
+<style type="text/css" media="all">@import "normal.css";</style>
+
+</head>
+
+
+  <body onload="document.body.innerHTML =
+        window.opener.document.getElementById('ss').innerHTML"> 
+
+    
+      &nbsp;
+      
+	 
+      <table border="0" cellspacing="0" class="data" cellpadding="1">
+      <caption>SECONDARY STRUCTURE PREDICTION</caption> 	
+	<tbody><tr> 	
+          <td bgcolor="#FFFFFF" colspan="4"><font size="4px">Secondary Structure</font>
+          &nbsp;
+	  
+	  <a id="popup" title="Open this table in a new window" onclick="window.open('http://genesilico.pl/meta2/results/classic/new_window?id=ss',
+	             'Movable Window','height=200,width=800,scrollbars=yes,resizable=yes');">
+	  <img src="http://genesilico.pl/meta2/images/pop_up" alt="pop_up" title="" height="15" width="17" border="0"></a>
+	  
+       
+        <a id="popup" title="Open this table in a fasta format" onclick=" window.open('http://genesilico.pl/meta2/results/classic/fastaWindow?id=44686&amp;mode=ss',
+         'Movable Window','height=200,width=800,scrollbars=yes,resizable=yes')">
+	  <img src="http://genesilico.pl/meta2/images/pop_up" alt="pop_up" title="" height="15" width="17" border="0"></a>
+          &nbsp;&nbsp;
+          <a id="help" title="Open help for Secondary Structure section" onclick=" window.open('http://genesilico.pl/meta2/help?ss',
+         'Movable Window','height=650,width=720,scrollbars=yes,resizable=yes')">
+	  <img src="http://genesilico.pl/meta2/images/help" alt="help" title="" height="15" width="17" border="0"></a>
+          
+	  </td>
+          <td>&nbsp;</td>	
+	  <td valign="bottom" class="numbers" nowrap="">1........10........20........30........40........50........60........70........80........90........100.......110.......120......</td>
+        </tr>
+
+	<tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>	
+          <td>&nbsp;</td>	      
+          <td class="align">MGDLPGLVRLSIALRIQPNDGPVFYKVDGQRFGQNRTIKLLTGSSYKVEVKIKPSTLQVENISIGGVLVPLELKSKEPDGDRVVYTGTYDTEGVTPTKSGERQPIQITMPECLEQRPQEISLTYECEE</td>
+        </tr>
+
+	
+	
+	<tr class="ligthgray"> 	
+
+          <td nowrap="" width="100" class="pseudo">HMMSTR</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">------<font color="#008000">EEEEEEEEEE</font>-----<font color="#008000">EEEEEE</font>---<font color="#008000">EE</font>----<font color="#008000">EEEEEE</font>--<font color="#008000">EEEEEEEE</font>---<font color="#008000">EEEEEEEEEE</font>---<font color="#008000">EEEE</font>---------<font color="#008000">EEEEEEEE</font>----------------<font color="#008000">EEEEEEEEE</font>------<font color="#008000">EEEEEE</font><font color="#B22222">HH</font>
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="white"> 	
+
+          <td nowrap="" width="100" class="pseudo">sspro4</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">----<font color="#B22222">HHHHHHHHH</font><font color="#008000">EEE</font>------<font color="#008000">EEEEE</font>---<font color="#B22222">HH</font>--<font color="#008000">EEEEEE</font>----<font color="#008000">EEEEEEEEE</font>---<font color="#008000">EEEEEEEE</font>--<font color="#008000">EE</font>--<font color="#008000">EEEE</font>--------<font color="#008000">EEEEE</font>-----------------------<font color="#B22222">HH</font>------<font color="#B22222">HHH</font><font color="#008000">EEEE</font>---
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="ligthgray"> 	
+
+          <td nowrap="" width="100" class="pseudo">sspal</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">------<font color="#008000">EEEEEEEEEE</font>------<font color="#008000">EEEEE</font>---------<font color="#008000">EEEEE</font>----<font color="#008000">EEEEEEEE</font>--<font color="#008000">EEEEEEEEE</font>-<font color="#008000">EEEEEEEE</font>--------<font color="#008000">EEEEE</font>------------------<font color="#008000">EEEE</font>----------<font color="#008000">EEEEEEE</font>---
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="white"> 	
+
+          <td nowrap="" width="100" class="pseudo">jnet</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">------<font color="#008000">EEEEEEEEE</font>------<font color="#008000">EEEEEE</font>--------<font color="#008000">EEEEEEE</font>---<font color="#008000">EEEEEEE</font>----<font color="#008000">EEEEEEEE</font>------------------<font color="#008000">EEEEEEEEE</font>-------------<font color="#008000">EEEEEEEEEE</font>--------------
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="ligthgray"> 	
+
+          <td nowrap="" width="100" class="pseudo">proteus</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">----<font color="#008000">EEEEEEEEEEEEE</font>----<font color="#008000">EEEEEE</font>--------<font color="#008000">EEEEEEE</font>---<font color="#008000">EEEEEEE</font>----<font color="#008000">EEEEEEE</font>--<font color="#008000">EEEEEEEE</font>-------<font color="#008000">EEEEEEE</font>----------------<font color="#008000">EEEEE</font>----------<font color="#008000">EEEEEEEE</font>--
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="white"> 	
+
+          <td nowrap="" width="100" class="pseudo">*SPARROW</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">-------<font color="#008000">EEEEEEEEE</font>------<font color="#008000">EEEEE</font>---<font color="#008000">E</font>-----<font color="#008000">EEEEE</font>----<font color="#008000">EEEEEEE</font>---<font color="#008000">EEEEEEEEE</font>--<font color="#008000">EEEEEEE</font>--------<font color="#008000">EEEEE</font>--<font color="#008000">E</font>----------------<font color="#008000">EE</font>--<font color="#B22222">HHHHHH</font>---<font color="#B22222">H</font>--<font color="#008000">EEEE</font>---
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="ligthgray"> 	
+
+          <td nowrap="" width="100" class="pseudo">sspred</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">-------<font color="#008000">EEEEEEEEEE</font>-----<font color="#008000">EEEEE</font>--------<font color="#008000">EEEEEE</font>---<font color="#008000">EEEEEEEEE</font>---<font color="#008000">EEEEEEE</font>--------<font color="#008000">EE</font>--------<font color="#008000">EEEEEEE</font>----------------<font color="#008000">EEEE</font>-----------<font color="#008000">EEEEEE</font>---
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="white"> 	
+
+          <td nowrap="" width="100" class="pseudo">SPARROW</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">------<font color="#B22222">H</font><font color="#008000">EEEEEEEEEE</font>-----<font color="#008000">EEEEE</font>--<font color="#008000">EE</font>-----<font color="#008000">EEEEEE</font>---<font color="#008000">EEEEEEEEE</font>-<font color="#008000">EEEEEEEEE</font>--<font color="#008000">EEEEEEE</font>--------<font color="#008000">EEEEEEEE</font>--------------<font color="#008000">EEEE</font>--<font color="#B22222">HHHHH</font>----<font color="#B22222">H</font><font color="#008000">EEEEEE</font>---
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="ligthgray"> 	
+
+          <td nowrap="" width="100" class="pseudo">sable</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">-----<font color="#B22222">HHHHH</font><font color="#008000">EEEEEE</font>------<font color="#008000">EEEE</font>-----------<font color="#008000">EEEE</font>-----<font color="#008000">EEEEEE</font>-------------------<font color="#008000">EE</font>---------<font color="#008000">EEEE</font>------------------<font color="#008000">EEE</font>--<font color="#B22222">HHHHH</font>------<font color="#008000">EEEEE</font>---
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="white"> 	
+
+          <td nowrap="" width="100" class="pseudo">prof</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">------<font color="#008000">EEEEEEEEEE</font>-----<font color="#008000">EEEEEE</font>--------<font color="#008000">EEEEEEE</font>--<font color="#008000">EEEEEEEE</font>----<font color="#008000">EEEEEEEEE</font>-<font color="#008000">EEEEEEE</font>--------<font color="#008000">EEEEEEEEE</font>-------------<font color="#008000">EEEEEEEEEEEE</font>--<font color="#008000">EEEEEEEEE</font>--
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="ligthgray"> 	
+
+          <td nowrap="" width="100" class="pseudo">nnssp</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">-------<font color="#008000">EEEEEEEEE</font>------<font color="#008000">EEEEE</font>---------<font color="#008000">EEEEE</font>----<font color="#008000">EEEEEEE</font>----<font color="#008000">EEEE</font>------<font color="#008000">EEEEEE</font>---------<font color="#008000">EEEEE</font>------------------<font color="#008000">EEEE</font>-----------<font color="#008000">EEEEEE</font>---
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="white"> 	
+
+          <td nowrap="" width="100" class="pseudo">netsurfp</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">------<font color="#008000">EEEEEEEEEE</font>------<font color="#008000">EEEEE</font>---<font color="#008000">E</font>----<font color="#008000">EEEEEE</font>---<font color="#008000">EEEEEEEEE</font>---<font color="#008000">EEEEEEEEEEEEEE</font>------------<font color="#008000">EEEEEEE</font>---------------<font color="#008000">EEEEE</font>---------<font color="#008000">EEEEEEEE</font>--
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="ligthgray"> 	
+
+          <td nowrap="" width="100" class="pseudo">ssp</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">------<font color="#008000">EEEEEEEEEEE</font>-----<font color="#008000">EEEEE</font>--------<font color="#008000">EEEEEEE</font>---<font color="#008000">EEEEEEEE</font>--<font color="#008000">EEEEEEEE</font>---<font color="#008000">EEEE</font>------------<font color="#008000">EEEEEEEE</font>--------------<font color="#008000">EEEEE</font><font color="#B22222">HHHHHHH</font>---<font color="#008000">EEEEEEEE</font>-
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="white"> 	
+
+          <td nowrap="" width="100" class="pseudo">pssfinder</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">-------<font color="#008000">EEEEEEEEEE</font>-----<font color="#008000">EEEEE</font>---------<font color="#008000">EEEEE</font>---<font color="#008000">EEEEEEEE</font>---<font color="#008000">EEEEEEEEE</font>--<font color="#008000">EEEEEEE</font>--------<font color="#008000">EEEE</font>------------------------<font color="#B22222">HHHHHH</font>---<font color="#008000">EEEEEEEEE</font>-
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="ligthgray"> 	
+
+          <td nowrap="" width="100" class="pseudo">raptorxss</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">-------<font color="#008000">EEEEEEEEE</font>------<font color="#008000">EEEEE</font>---<font color="#008000">E</font>-----<font color="#008000">EEEEE</font>-----<font color="#008000">EEEEEE</font>----<font color="#008000">EEEEEEEE</font>--<font color="#008000">EEEEEEE</font>--------<font color="#008000">EEEEE</font>------------------<font color="#008000">EEE</font>--<font color="#B22222">HHHHH</font>----<font color="#008000">EEEEEEE</font>---
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="white"> 	
+
+          <td nowrap="" width="100" class="pseudo">psspred</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">------<font color="#008000">EEEEEEEEEE</font>------<font color="#008000">EEEEE</font>---<font color="#008000">E</font>----<font color="#008000">EEEEEE</font>-----<font color="#008000">EEEEEE</font>---<font color="#008000">EEEEEEEEE</font>--<font color="#008000">EEEEEE</font>---------<font color="#008000">EEEEEEE</font>----------------<font color="#008000">EEE</font>--<font color="#B22222">HHHHHH</font>---<font color="#008000">EEEEEEE</font>---
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="ligthgray"> 	
+
+          <td nowrap="" width="100" class="pseudo">spineX</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">------<font color="#008000">EEEEEEEEEE</font>-----<font color="#008000">EEEEEE</font>--------<font color="#008000">EEEEEE</font>---<font color="#008000">EEEEEEEEE</font>---<font color="#008000">EEE</font>-<font color="#008000">EEEEE</font>-<font color="#008000">E</font>-----<font color="#008000">EEE</font>------<font color="#008000">EEEEEEEEE</font>-------------<font color="#008000">EEEEEE</font>----<font color="#008000">E</font>----<font color="#008000">E</font>---------
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="white"> 	
+
+          <td nowrap="" width="100" class="pseudo">spine</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">----<font color="#B22222">HHH</font><font color="#008000">EEEEEEEEE</font>------<font color="#008000">EEEEE</font>---<font color="#008000">E</font>-----<font color="#008000">EEEE</font>----<font color="#008000">EEEEEEEE</font>----<font color="#008000">EEEEEEEE</font>--<font color="#008000">EEE</font>--<font color="#008000">EE</font>--------<font color="#008000">EEEEEE</font>-----------------<font color="#008000">EEEE</font>-<font color="#B22222">HHHHH</font>-----<font color="#008000">EEEEEEE</font>--
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="ligthgray"> 	
+
+          <td nowrap="" width="100" class="pseudo">psipred</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">------<font color="#008000">EEEEEEEEEE</font>------<font color="#008000">EEEEE</font>--------<font color="#008000">EEEEEE</font>---<font color="#008000">EEEEEEEE</font>-----<font color="#008000">EEEEEEE</font>--<font color="#008000">EEE</font>--<font color="#008000">EE</font>--------<font color="#008000">EEEEEEEEE</font>------------<font color="#008000">EEEEEEE</font>-<font color="#B22222">HHH</font>----<font color="#008000">EEEEEEEEE</font>--
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="white"> 	
+
+          <td nowrap="" width="100" class="pseudo">soprano</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">------<font color="#008000">EEEEEEEEEE</font>-----<font color="#008000">EEEEEE</font>---<font color="#008000">EE</font>---<font color="#008000">EEEEEE</font>---<font color="#008000">EEEEEEEEE</font>---<font color="#008000">EEEEEEEE</font>---<font color="#008000">E</font>-------------<font color="#008000">EEEEEEEEE</font>-------------<font color="#008000">EEEEEE</font>-<font color="#008000">EEEEE</font>---<font color="#008000">E</font>---------
+</td>
+        </tr>
+	
+	
+	
+	
+	<tr class="ligthgray"> 	
+
+          <td nowrap="" width="100" class="pseudo">consensus</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="60">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>
+          <td nowrap="" width="80">&nbsp;</td>	
+          <td nowrap="" class="align">------<font color="#008000">EEEEEEEEEE</font>------<font color="#008000">EEEEE</font>--------<font color="#008000">EEEEEE</font>---<font color="#008000">EEEEEEEE</font>----<font color="#008000">EEEEEEEE</font>--<font color="#008000">EEEEEEE</font>--------<font color="#008000">EEEEEEEE</font>---------------<font color="#008000">EEEE</font>--<font color="#B22222">HHHH</font>----<font color="#008000">EEEEEEE</font>---
+</td>
+        </tr>
+	
+	
+      </tbody></table>
+      	 
+      &nbsp;
+     	  
+     
+     &nbsp;
+     &nbsp;
+     &nbsp;
+     &nbsp;
+    
+    </body></html>Ytext/html¤ Ő_WebResourceResponse[iso-8859-15_&https://genesilico.pl/meta2/broken.cssOąbplist00ÔklX$versionX$objectsY$archiverT$top  Ż #)*0123MNOPQRSTUVWXYZ[\]^_`aefU$nullÝ	
+ !"___nsurlrequest_proto_prop_obj_6___nsurlrequest_proto_prop_obj_3R$2___nsurlrequest_proto_prop_obj_0R$3___nsurlrequest_proto_prop_obj_4V$class___nsurlrequest_proto_prop_obj_1R$4R$0___nsurlrequest_proto_prop_obj_5___nsurlrequest_proto_prop_obj_2R$1	 Ó$% '(WNS.base[NS.relative _&https://genesilico.pl/meta2/broken.cssŇ+,-.Z$classnameX$classesUNSURL˘-/XNSObject#Ażá{[ ČÓ456ALWNS.keysZNS.objectsŞ789:;<=>?@	
+ŞBCDEFGHIJKVServer\Content-TypeZConnection]Last-ModifiedX__hhaa__]Accept-RangesTDate^Content-LengthZKeep-AliveTVary_9Zope/(Zope 2.9.6-final, python 2.4.4, linux2) ZServer/1.1_text/css; charset=iso-8859-15ZKeep-Alive_Wed, 17 Jan 2007 17:24:45 GMT_X
+
+YnBsaXN0MDDZAQIDBAUGBwgJCgwOEBIUFhgaVlNlcnZlclxDb250ZW50LVR5cGVUVmFyeV1MYXN0LU1vZGlmaWVkVERhdGVdQWNjZXB0LVJhbmdlc15Db250ZW50LUxlbmd0aFpLZWVwLUFsaXZlWkNvbm5lY3Rpb26hC18QOVpvcGUvKFpvcGUgMi45LjYtZmluYWwsIHB5dGhvbiAyLjQuNCwgbGludXgyKSBaU2VydmVyLzEuMaENXxAddGV4dC9jc3M7IGNoYXJzZXQ9aXNvLTg4NTktMTWhD18QD0FjY2VwdC1FbmNvZGluZ6ERXxAdV2VkLCAxNyBKYW4gMjAwNyAxNzoyNDo0NSBHTVShE18QHVdlZCwgMTMgRGVjIDIwMTcgMDc6NDU6MzYgR01UoRVVYnl0ZXOhF1QzMDk3oRlfEBN0aW1lb3V0PTE1LCBtYXg9MTAwoRtaS2VlcC1BbGl2ZQAIABsAIgAvADQAQgBHAFUAZABvAHoAfAC4ALoA2gDcAO4A8AEQARIBMgE0AToBPAFBAUMBWQFbAAAAAAAAAgEAAAAAAAAAHAAAAAAAAAAAAAAAAAAAAWY=Ubytes_Wed, 13 Dec 2017 07:45:36 GMTT3097_timeout=15, max=100_Accept-EncodingŇ+,bc_NSMutableDictionaryŁbd/\NSDictionaryXtext/cssŇ+,gh_NSHTTPURLResponseŁij/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiverŃmn_WebResourceResponse    # - 2 7 Z ` {  ż Â ä ç	258Z|§łľˇšâçňű!)4?ACEGIKMOQS^`bdfhjlnprt{ĄŞ¸˝Ě×Ü8CcżĹĺę -1>GL`dxą             o              łObody {
+  background-color: #EEEEDD;
+}
+
+A.top {
+  color: #FFFFFF;
+  background-color: #5B7050;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 11pt; font-weight: bold; 
+  text-decoration: none;
+}
+
+A.users {
+  color: #FFFFFF;
+  background-color: #993300; 
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 11pt; font-weight: bold; 
+  text-decoration: none;
+} 
+
+A {
+  color: #000000;	
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 12pt;
+  font-weight: bold;
+  text-decoration: none; 
+}
+
+.head { 
+  color: #000000;	
+  background-color: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 15pt;
+  font-style: italic;
+  font-weight: bold; 
+}
+
+.normal {
+  color: #000000;	
+  background-color: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 12pt;
+  font-style: italic;
+}
+
+.data {
+  color: #000000;
+  background-color: #FFFFFF;	
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 10pt;
+  font-style: normal;
+}
+
+.pseudo {
+  color: #000000;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: none; 
+}
+
+.align {
+  font-family: Courier, monospace, sans-serif;
+  font-size: 10pt;
+}
+
+.numbers {
+  color: #B0C4DE;
+  background-color: #FFFFFF;
+  font-family: Courier, monospace, sans-serif;
+  font-size: 10pt;
+  font-style: normal;
+  text-decoration: none;
+}
+
+.alarm {
+  color: #DC143C;
+  background-color: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 12pt;
+  font-style: italic;       
+}
+
+.description {
+  color: #000000;
+  backgrounf: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 12pt;
+} 
+
+.ligthgray {
+  background-color: #FFFFFF;
+}
+
+.gray {
+  background-color: #DDDDDD;
+}
+
+.darkgray {
+  background-color: #A9A9A9;
+}
+
+.white {
+  background-color: #FFFFFF;
+}
+
+.users {
+  color: #000000;
+  background-color: #993300; 
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 11pt;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.top { 
+  color: #FFFFFF;
+  background-color: #5B7050;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 11pt;
+  font-weight: bold;
+  text-decoration: none;
+}
+ 
+.bottom {
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 9pt;
+}
+
+.acl_head { 
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-weight: bold; 
+}
+
+.acl_normal {
+  background: #8FBC8F;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 12pt;
+}
+
+.acl_alarm {
+  background: #FFFFFF;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 12pt;
+  font-style: italic;       
+  color: #DC143C;
+}
+
+.smaller {
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 10pt;
+  font-style: normal;
+}
+
+.changes {
+  color: #000000;
+  background-color: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 10pt;
+  font-style: normal;
+}
+
+# old good:
+# top #556B2F
+# users #A0522D
+# lightgray background-color: #EFEFEF;
+
+
+
+Xtext/cssŐ[iso-8859-15_6https://genesilico.pl/meta2/results/classic/normal.cssOŔbplist00ÔklX$versionX$objectsY$archiverT$top  Ż #)*0123MNOPQRSTUVWXYZ[\]^_`aefU$nullÝ	
+ !"___nsurlrequest_proto_prop_obj_6___nsurlrequest_proto_prop_obj_3R$2___nsurlrequest_proto_prop_obj_0R$3___nsurlrequest_proto_prop_obj_4V$class___nsurlrequest_proto_prop_obj_1R$4R$0___nsurlrequest_proto_prop_obj_5___nsurlrequest_proto_prop_obj_2R$1	 Ó$% '(WNS.base[NS.relative _6https://genesilico.pl/meta2/results/classic/normal.cssŇ+,-.Z$classnameX$classesUNSURL˘-/XNSObject#Ażá{Ď ČÓ456ALWNS.keysZNS.objectsŞ789:;<=>?@	
+ŞBCDEFGHIJKVServer\Content-TypeZConnection]Last-ModifiedX__hhaa__]Accept-RangesTDate^Content-LengthZKeep-AliveTVary_9Zope/(Zope 2.9.6-final, python 2.4.4, linux2) ZServer/1.1_text/css; charset=iso-8859-15ZKeep-Alive_Wed, 17 Jan 2007 17:24:45 GMT_X
+
+YnBsaXN0MDDZAQIDBAUGBwgJCgwOEBIUFhgaVlNlcnZlclxDb250ZW50LVR5cGVUVmFyeV1MYXN0LU1vZGlmaWVkVERhdGVdQWNjZXB0LVJhbmdlc15Db250ZW50LUxlbmd0aFpLZWVwLUFsaXZlWkNvbm5lY3Rpb26hC18QOVpvcGUvKFpvcGUgMi45LjYtZmluYWwsIHB5dGhvbiAyLjQuNCwgbGludXgyKSBaU2VydmVyLzEuMaENXxAddGV4dC9jc3M7IGNoYXJzZXQ9aXNvLTg4NTktMTWhD18QD0FjY2VwdC1FbmNvZGluZ6ERXxAdV2VkLCAxNyBKYW4gMjAwNyAxNzoyNDo0NSBHTVShE18QHVdlZCwgMTMgRGVjIDIwMTcgMDc6NTI6MTAgR01UoRVVYnl0ZXOhF1Q3MDM3oRlfEBJ0aW1lb3V0PTE1LCBtYXg9OTihG1pLZWVwLUFsaXZlAAgAGwAiAC8ANABCAEcAVQBkAG8AegB8ALgAugDaANwA7gDwARABEgEyATQBOgE8AUEBQwFYAVoAAAAAAAACAQAAAAAAAAAcAAAAAAAAAAAAAAAAAAABZQ==Ubytes_Wed, 13 Dec 2017 07:52:10 GMTT7037_timeout=15, max=98_Accept-EncodingŇ+,bc_NSMutableDictionaryŁbd/\NSDictionaryXtext/cssŇ+,gh_NSHTTPURLResponseŁij/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiverŃmn_WebResourceResponse    # - 2 7 Z ` {  ż Â ä ç	258Z|§łľˇšň÷&(*19DOQSUWY[]_acnprtvxz|~ŁąşČÍÜçě(HSsĎŐőú!&<@MV[os§ŞŔ             o              ÂO}body {
+  background-color: #EEEEDD;
+}
+
+.head { 
+  color: #000000;	
+  background-color: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 13pt;
+  font-style: italic;
+  font-weight: bold; 
+}
+
+.normal {
+  color: #000000;	
+  background-color: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 10pt;
+  font-style: italic;
+}
+
+.normal a:link {
+  color: #000000;
+  background-color: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: bolder;
+  text-decoration: none;
+  border: none;
+}
+
+.normal a:visited {
+  color: #000000;	
+  background-color: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: bolder;
+  text-decoration: none;
+  border: none;
+}
+
+.normal a:hover {
+  color: #000000;	
+  background-color: #7FFFD4;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: bolder;
+  text-decoration: none;
+  border: none;
+}
+
+.normal a:active {
+  color: #000000;	
+  background-color: #7FFFD4;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: bolder;
+  text-decoration: none;
+  border: dotted;
+  border-width: 1px;
+}
+
+.data {
+  color: #000000;
+  background-color: #FFFFFF;	
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 7pt;
+  font-style: normal;
+  border: solid #000000;
+  border-width: 1px;
+  caption-side: left;
+}
+
+.data a:link {
+  color: #000000;	
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: bolder;
+  text-decoration: none;
+  border: none;
+}
+
+.data a:visited {
+  color: #A0522D;	
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: bolder;
+  text-decoration: none;
+  border: none;
+}
+
+.data a:hover {
+  color: #000000;	
+  background-color: #7FFFD4;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: bolder;
+  text-decoration: none;
+  border: none;
+}
+
+.data a:active {
+  color: #000000;	
+  background-color: #7FFFD4;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: bolder;
+  text-decoration: none;
+  border: dotted;
+  border-width: 1px;
+}
+
+.pseudo {
+  color: #000000;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: bolder;
+  text-decoration: none; 
+}
+
+.align {
+  font-family: monospace, Courier, sans-serif;
+  font-size: 8pt;
+  font-style: normal;
+}
+
+.numbers {
+  color: #778899;
+  background-color: #FFFFFF;
+  font-family: monospace,Courier, sans-serif ;
+  font-size: 8pt;
+  font-style: normal;
+  text-decoration: none;
+}
+
+.alarm {
+  color: #DC143C;
+  background-color: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 10pt;
+  font-style: italic;       
+}
+
+.description {
+  color: #000000;
+  background: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 10pt;
+} 
+
+.ligthgray {
+  background-color: #FFFFFF;
+}
+
+
+.gray {
+  background-color: #DDDDDD;
+}
+
+.darkgray {
+  background-color: #A9A9A9;
+}
+
+.white {
+  background-color: #FFFFFF;
+}
+
+
+.users {
+  color: #000000;
+  background-color: #993300; 
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 11pt;
+  font-weight: bold;
+  text-decoration: none;
+  border: none;
+}
+
+.users a:link {
+  color: #FFFFFF;
+  background-color: #993300; 
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 9pt;
+  font-weight: bold;
+  text-decoration: none;
+  border: none;
+}
+
+.users a:visited {
+  color: #FFFFFF;
+  background-color: #993300; 
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 9pt;
+  font-weight: bold;
+  text-decoration: none;
+  border: none;
+}
+
+.users a:hover {
+  color: #FFFFFF;
+  background-color: #FF7F50;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 9pt;
+  font-weight: bold;
+  text-decoration: none;
+  border: none;
+}
+
+.users a:active {
+  color: #FFFFFF; 
+  background-color: #FF7F50;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 9pt;
+  font-weight: bold;
+  text-decoration: none;
+  border: dotted;
+  border-width: 1px;
+}
+
+.top { 
+  color: #FFFFFF;
+  background-color: #5B7050;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 9pt;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.top a:link {
+  color: #FFFFFF;
+  background-color: #5B7050;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 9pt;
+  font-weight: bold;
+  text-decoration: none;
+  border: none;
+}
+
+.top a:visited {
+  color: #FFFFFF;
+  background-color: #5B7050;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 9pt;
+  font-weight: bold;
+  text-decoration: none;
+  border: none;
+}
+
+.top a:hover {
+  color: #FFFFFF;
+  background-color: #5F9EA0;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 9pt;
+  font-weight: bold;
+  text-decoration: none;
+  border: none;
+}
+
+.top a:active {
+  color: #FFFFFF;
+  background-color: #5F9EA0;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 9pt;
+  font-weight: bold;
+  text-decoration: none;
+  border: dotted;
+  border-width: 1px;
+}
+
+.bottom { 
+  border-top: 2px solid #5B7050;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 7pt;
+}
+
+.smaller {
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 7pt;
+  font-style: normal;
+}
+
+.changes {
+  color: #000000;
+  background-color: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 8pt;
+  font-style: normal;
+  border: solid #000000;
+  border-width: 1px;
+}
+
+.changes a:link {
+  color: #000000;
+  background-color: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: bolder;
+  text-decoration: none;
+  border: none;
+}
+
+.changes a:visited {
+  color: #A0522D;	
+  background-color: #EEEEDD;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: bolder;
+  text-decoration: none;
+  border: none;
+}
+
+.changes a:hover {
+  color: #000000;
+  background-color: #7FFFD4;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: bolder;
+  text-decoration: none;
+  border: none;
+}
+
+.changes a:active {
+  color: #000000;
+  background-color: #7FFFD4;
+  font-family: Verdana, Arial, Helvetica, sans-serif;   
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: bolder;
+  text-decoration: none;
+  border: dotted;
+  border-width: 1px;
+}
+
+.label {
+  background: #FCFCFC 1px 1px no-repeat;
+  color: black;
+  cursor: pointer;
+  font-size: 65%;
+  font-weight: normal;
+  margin-bottom: 1em;
+  padding: 1px 1px 1px 1px;
+  text-transform: ;
+}
+
+# old good:
+# top #556B2F
+# users #A0522D
+# lightgray background-color: #EFEFEF;
+Ô_(http://genesilico.pl/meta2/images/pop_upObplist00ÔfgX$versionX$objectsY$archiverT$top  Ż#)*0123KLMNOPQRSTUVWXYZ[\]aU$nullÝ	
+ !"___nsurlrequest_proto_prop_obj_6___nsurlrequest_proto_prop_obj_3R$2___nsurlrequest_proto_prop_obj_0R$3___nsurlrequest_proto_prop_obj_4V$class___nsurlrequest_proto_prop_obj_1R$4R$0___nsurlrequest_proto_prop_obj_5___nsurlrequest_proto_prop_obj_2R$1	 Ó$% '(WNS.base[NS.relative _)https://genesilico.pl/meta2/images/pop_upŇ+,-.Z$classnameX$classesUNSURL˘-/XNSObject#Ażá{Ľ+ ČÓ456@JWNS.keysZNS.objectsŠ789:;<=>?	
+ŠACDEFGHIVServer\Content-TypeX__hhaa__]Last-Modified]Accept-RangesTDate^Content-LengthZKeep-AliveZConnection_9Zope/(Zope 2.9.6-final, python 2.4.4, linux2) ZServer/1.1Yimage/gif_
+
+YnBsaXN0MDDYAQIDBAUGBwgJCw0PERMVF1ZTZXJ2ZXJcQ29udGVudC1UeXBlXUxhc3QtTW9kaWZpZWRURGF0ZV1BY2NlcHQtUmFuZ2VzXkNvbnRlbnQtTGVuZ3RoWktlZXAtQWxpdmVaQ29ubmVjdGlvbqEKXxA5Wm9wZS8oWm9wZSAyLjkuNi1maW5hbCwgcHl0aG9uIDIuNC40LCBsaW51eDIpIFpTZXJ2ZXIvMS4xoQxZaW1hZ2UvZ2lmoQ5fEB1XZWQsIDE3IEphbiAyMDA3IDE3OjI0OjQ1IEdNVKEQXxAdV2VkLCAxMyBEZWMgMjAxNyAwNzo1NToyNiBHTVShElVieXRlc6EUUzE0NKEWXxASdGltZW91dD0xNSwgbWF4PTk5oRhaS2VlcC1BbGl2ZQAIABkAIAAtADsAQABOAF0AaABzAHUAsQCzAL0AvwDfAOEBAQEDAQkBCwEPAREBJgEoAAAAAAAAAgEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAATM=_Wed, 17 Jan 2007 17:24:45 GMTUbytes_Wed, 13 Dec 2017 07:55:26 GMTS144_timeout=15, max=99ZKeep-AliveŇ+,^__NSMutableDictionaryŁ^`/\NSDictionaryŇ+,bc_NSHTTPURLResponseŁde/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiverŃhi_WebResourceResponse    # - 2 7 W ] x  ź ż á ä/25Wy|~¤°˛´śâçňű!)4>@BDFHJLNPZ\^`bdfhjlnu§ŹťĆŃ'GMmqŹ°˝ÂÖÚîü'             j              )OGIF89a  ł˙ ˙˙˙ÝÝÝÚÚÚ\\\[[[ZZZYYYVVVUUUTTTSSSRRRPPP444      ,      @EĐÉIëÁmuŘĆ#(ii:ÚHzpof§_@ď˙žKÔ	ź
+JKłŔą˘čČ@,ŕp8ąh8" ;Yimage/gifÔ!"#$_&http://genesilico.pl/meta2/images/helpObplist00ÔfgX$versionX$objectsY$archiverT$top  Ż#)*0123KLMNOPQRSTUVWXYZ[\]aU$nullÝ	
+ !"___nsurlrequest_proto_prop_obj_6___nsurlrequest_proto_prop_obj_3R$2___nsurlrequest_proto_prop_obj_0R$3___nsurlrequest_proto_prop_obj_4V$class___nsurlrequest_proto_prop_obj_1R$4R$0___nsurlrequest_proto_prop_obj_5___nsurlrequest_proto_prop_obj_2R$1	 Ó$% '(WNS.base[NS.relative _'https://genesilico.pl/meta2/images/helpŇ+,-.Z$classnameX$classesUNSURL˘-/XNSObject#Ażá{Á ČÓ456@JWNS.keysZNS.objectsŠ789:;<=>?	
+ŠACDEFGHIVServer\Content-TypeX__hhaa__]Last-Modified]Accept-RangesTDate^Content-LengthZKeep-AliveZConnection_9Zope/(Zope 2.9.6-final, python 2.4.4, linux2) ZServer/1.1Yimage/png_
+
+YnBsaXN0MDDYAQIDBAUGBwgJCw0PERMVF1ZTZXJ2ZXJcQ29udGVudC1UeXBlXUxhc3QtTW9kaWZpZWRURGF0ZV1BY2NlcHQtUmFuZ2VzXkNvbnRlbnQtTGVuZ3RoWktlZXAtQWxpdmVaQ29ubmVjdGlvbqEKXxA5Wm9wZS8oWm9wZSAyLjkuNi1maW5hbCwgcHl0aG9uIDIuNC40LCBsaW51eDIpIFpTZXJ2ZXIvMS4xoQxZaW1hZ2UvcG5noQ5fEB1UaHUsIDI4IEZlYiAyMDA4IDEzOjU4OjA4IEdNVKEQXxAdV2VkLCAxMyBEZWMgMjAxNyAwNzo1NToyNiBHTVShElVieXRlc6EUUzY0NqEWXxASdGltZW91dD0xNSwgbWF4PTk4oRhaS2VlcC1BbGl2ZQAIABkAIAAtADsAQABOAF0AaABzAHUAsQCzAL0AvwDfAOEBAQEDAQkBCwEPAREBJgEoAAAAAAAAAgEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAATM=_Thu, 28 Feb 2008 13:58:08 GMTUbytes_Wed, 13 Dec 2017 07:55:26 GMTS646_timeout=15, max=98ZKeep-AliveŇ+,^__NSMutableDictionaryŁ^`/\NSDictionaryŇ+,bc_NSHTTPURLResponseŁde/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiverŃhi_WebResourceResponse    # - 2 7 W ] x  ź ż á ä/25Wy|~¤°˛´śŕĺđů˙'2<>@BDFHJLNXZ\^`bdfhjlsĽŞšÄĎ%EKkoŞŽťŔÔŘěú%             j              'OPNG
+
+   IHDR         >p5   	pHYs  ×  ×B(x  8IDAT(Ď]ÓÍk\đß{óÎ$quĄôC	řą&T7$´Á?@7ÔmŔ@uď&+AŠÖTűŞŚ~[HK
+śéLfć}?ć^¸{Ď=Ĺ9AmŻzG,7˝éŁę*.żłßŘť˙{s3żóFóPÔHô=tŤ¸íŹÄý˙W;{jîH¨ĺJcDbťşŘ­^^{^|űůVÚmÜľĽŠŤo 6-űqôçť?&¨ő^|úŇűš_˛ígł­űV(Ëü0žoD˝NóÓüć$Žť*YśeS&QyŽsíóŢBhéĺî(=á3W]Ó2k'¤Rť2ó]KacšŰţÔ.ęüĽ{RŠÔXâ@'Xăó64HT:îČźä|ĽHjŕxV¸âŁ
+ÄU-Oü.Č*Mőá¨žY,LÉÝrŰźŽP×}şëą\ĽDÎÍ¨>żłĐ*nŰRyŐß+JRŠŇŞĎĺúQS&tć'ç$2šB>Ąth=táúíGëŻyÓ3Ç"ľŃCÂxřzw^C!WxĘ[źŽPL-÷őxoN_4#ŮrÎ7žM0ëÁ¨z/ŢřëZ.Ě´ŰvĺJ 2kTöŐjźśĎĎÁš'§§ŁPŞTK~ŻŮďç˝¤8ô˘gkĹŚŘž¤ünO:?KŠ    IENDŽB`Yimage/png    1 < Z i   ¨ Ž í üMLMVM[MfM|MMąUfaaaaŁaÜi !*Uv	Edî             %              ř
